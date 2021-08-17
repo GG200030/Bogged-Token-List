@@ -1,0 +1,14 @@
+{
+    "name": "DOGEMOON",
+    "website": "https://dogemoon.me/",
+    "telegram": "https://t.me/dogemoonme",
+    "twitter": "https://twitter.com/DogeMoonMain",
+    "description": "$DGMOON is a popular community driven charitable token launched on the Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x18359CF655A444204e46F286eDC445C9D30fFc54",
+    "type": "BEP20",
+    "symbol": "DGMOON",
+    "decimals": 18,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x18359CF655A444204e46F286eDC445C9D30fFc54"
+}
